@@ -1,5 +1,7 @@
 # JAVA_PROGRAMMMING
 
+A collection of java programming programs covering concepts, practice problems, and coding exercises.
+
 ## PRACTICE_PROGRAMS
 _ _ _
 
