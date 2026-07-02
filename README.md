@@ -17,6 +17,12 @@ _ _ _
 | 09 | program43 | 	Take a number input from user and check is  number is not divisible by 3 & 5 |	JAVA_Programming|	check divisiblity [Type2] optimize code  | [View Code](./PRACTICE_CODES/program43.c) |
 | 10 | program44 | 	Take a number input from user and check is  number is not divisible by 3 & 5 |	JAVA_Programming|	check divisiblity [Type3] optimize code with Business Logic in different class  | [View Code](./PRACTICE_CODES/program44.c) |
 | 11 | program45 | 	Take a number input from user and check is  number is not divisible by 3 & 5 |	JAVA_Programming|	check divisiblity [Type3] / optimize code with Business Logic in different class / Method Calling using Object | [View Code](./PRACTICE_CODES/program45.c) |
+| 12 | program46 | 	Take a number input and Display its Factors |	JAVA_Programming |	normal code with  Business Logic in different class [  Time Complexity : O(N) ]  | [View Code](./PRACTICE_CODES/program46.c) |
+| 13 | program47 | 	Take a number input and Display its Factors |	JAVA_Programming |	normal code with  Business Logic in different class [  Time Complexity : O(N/2) ]  | [View Code](./PRACTICE_CODES/program47.c) |
+| 14 | program48 | 	Take a number input and Summation of factors |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program48.c) |
+| 15 | program49 | 	Take a number input and Summation of factors |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program49.c) |
+| 16 | program50 | 	Take a number input and Summation of factors and Check whether it is  perfect or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program50.c) |
+| 17 | program51 | 	Take a number input and Summation of factors and Check whether it is  perfect or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program51.c) |
 
 
 
