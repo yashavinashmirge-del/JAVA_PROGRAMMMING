@@ -25,11 +25,11 @@ _ _ _
 | 16 | program49 | 	Take a number input and Summation of factors |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program49.java) |
 | 17 | program50 | 	Take a number input and Summation of factors and Check whether it is  perfect number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program50.java) |
 | 18 | program51 | 	Take a number input and Summation of factors and Check whether it is  perfect  number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program51.java) |
-| 19 | program65 | check whether a given number is a prime number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program65.java) |
-| 20 | program66 | check whether a given number is a prime number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program66.java) |
-| 21 | program67 | check whether a given number is a prime number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program67.java) |
-| 22 | program68 | check whether a given number is a prime number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program68.java) |
-| 23 | program69 | check whether a given number is a prime number or not  |	JAVA_Programming |	normal code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program69.java) |
+| 19 | program65 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program65.java) |
+| 20 | program66 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program66.java) |
+| 21 | program67 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program67.java) |
+| 22 | program68 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program68.java) |
+| 23 | program69 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program69.java) |
 
 
 
