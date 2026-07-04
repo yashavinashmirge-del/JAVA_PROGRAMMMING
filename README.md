@@ -52,6 +52,16 @@ _ _ _
 | 43 | program141 | accept and display array elements | JAVA_Programming | dynamic memory allocation for array | [View Code](./PRACTICE_CODES/program141.java) |
 | 44 | program142 | accept and display array elements optimize code | JAVA_Programming | dynamic memory allocation for array with garbage collection |[View Code](./PRACTICE_CODES/program142.java)|
 | 45 | program143 | summation of array elements | JAVA_Programming | code with Business Logic in different method |[View Code](./PRACTICE_CODES/program143.java)|
+|46 | program145 | update array elements | JAVA_Programming | code with Business Logic in same class | [View Code](./PRACTICE_CODES/program145.java) |
+|47 | program146 | update array elements optimize code | JAVA_Programming | code with Business Logic in different class[static method] | [View Code](./PRACTICE_CODES/program146.java) |
+|48 | program147 | update array elements optimize code | JAVA_Programming | code with Business Logic in different class[non static method] | [View Code](./PRACTICE_CODES/program147.java) |
+|49 | program171 | display * pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program171.java) |
+|50 | program172 | display numbers pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program172.java) |
+|51 | program173 | display number and * pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program173.java) |
+|52 | program174 | display * and # pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program174.java) |
+|53 | program175 | display *number* pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program175.java) |
+|54 | program176 | display odd numbers and * pattern | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program176.java) |
+|55 | program177 | display numbers and * pattern optimize code | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program177.java) |
 
 
 
