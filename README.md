@@ -62,6 +62,89 @@ _ _ _
 |53 | program175 | display *number* pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program175.java) |
 |54 | program176 | display odd numbers and * pattern | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program176.java) |
 |55 | program177 | display numbers and * pattern optimize code | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program177.java) |
+|56 | program178 | display numbers and * pattern optimize code | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program178.java) |
+|57 | program179 | display small characters pattern | JAVA_Programming | pattern printing using character variable and for loop | [View Code](./PRACTICE_CODES/program179.java) |
+|58 | program180 | display small characters pattern optimize code | JAVA_Programming | pattern printing using character variable in for loop | [View Code](./PRACTICE_CODES/program180.java) |
+|59 | program181 | display small characters pattern optimize code | JAVA_Programming | pattern printing using ASCII value and for loop | [View Code](./PRACTICE_CODES/program181.java) |
+|60 | program182 | display capital characters pattern | JAVA_Programming | pattern printing using ASCII value and for loop | [View Code](./PRACTICE_CODES/program182.java) |
+|61 | program183 | display capital characters pattern optimize code | JAVA_Programming | pattern printing using character variable in for loop | [View Code](./PRACTICE_CODES/program183.java) |
+|62 | program184 | display capital characters and * pattern | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program184.java) |
+|63 | program185 | display capital characters and * pattern optimize code | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program185.java) |
+|64 | program186 | display capital characters and numbers pattern | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program186.java) |
+|65 | program187 | display capital and small characters pattern | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program187.java) |
+|66 | program188 | display capital and small characters pattern optimize code | JAVA_Programming | pattern printing using if else and for loop | [View Code](./PRACTICE_CODES/program188.java) |
+|67 | program189 | display * pattern in rows and columns | JAVA_Programming | pattern printing using multiple for loops | [View Code](./PRACTICE_CODES/program189.java) |
+|68 | program190 | display * pattern in rows and columns optimize code | JAVA_Programming | pattern printing using multiple for loops | [View Code](./PRACTICE_CODES/program190.java) |
+|69 | program191 | display * pattern in rows and columns optimize code | JAVA_Programming | pattern printing using nested for loop | [View Code](./PRACTICE_CODES/program191.java) |
+|70 | program192 | display * pattern using rows and columns | JAVA_Programming | pattern printing using nested for loop and user input | [View Code](./PRACTICE_CODES/program192.java) |
+|71 | program193 | display numbers pattern using rows and columns | JAVA_Programming | pattern printing using nested for loop and user input | [View Code](./PRACTICE_CODES/program193.java) |
+|72 | program194 | display numbers pattern using rows and columns optimize code | JAVA_Programming | pattern printing using nested for loop and user input | [View Code](./PRACTICE_CODES/program194.java) |
+|73 | program195 | display * and $ pattern using rows and columns | JAVA_Programming | pattern printing using nested for loop and if else | [View Code](./PRACTICE_CODES/program195.java) |
+|74 | program196 | display # and & pattern using rows and columns | JAVA_Programming | pattern printing using nested for loop and if else | [View Code](./PRACTICE_CODES/program196.java) |
+| 75 | program197 | display $ pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program197.java) |
+| 76 | program198 | display numbers pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program198.java) |
+| 77 | program199 | display numbers pattern using rows and columns optimize code | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program199.java) |
+| 78 | program200 | display $ and # pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program200.java) |
+| 79 | program201 | display $ and # pattern using rows and columns optimize code | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program201.java) |
+| 80 | program202 | display $ and # pattern using rows and columns optimize code | JAVA_Programming | code with Business Logic in different class[array and nested for loop] | [View Code](./PRACTICE_CODES/program202.java) |
+| 81 | program203 | display capital characters pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program203.java) |
+| 82 | program204 | display small characters pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program204.java) |
+| 83 | program205 | display small characters pattern using rows and columns optimize code | JAVA_Programming | code with Business Logic in different class[ASCII value and nested for loop] | [View Code](./PRACTICE_CODES/program205.java) |
+| 84 | program206 | display small characters and numbers pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program206.java) |
+| 85 | program207 | display reverse numbers pattern using rows and columns | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program207.java) |
+| 86 | program208 | display reverse numbers pattern using rows and columns optimize code | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program208.java) |
+| 87 | program209 | display diagonal pattern using @ and $ | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program209.java) |
+| 88 | program210 | display diagonal pattern using @ and $ optimize code | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program210.java) |
+| 89 | program211 | display diagonal pattern using @ and $ optimize code | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program211.java) |
+| 90 | program212 | display border pattern using # and @ | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program212.java) |
+| 91 | program213 | display border pattern using % and @ | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program213.java) |
+| 92 | program214 | display hollow rectangle pattern using % and @ | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program214.java) |
+| 93 | program215 | display hollow rectangle pattern using % | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program215.java) |
+| 94 | program216 | display hollow rectangle pattern using % optimize code | JAVA_Programming | code with Business Logic in different class[nested for loop with if else] | [View Code](./PRACTICE_CODES/program216.java) |
+| 95 | program217 | display diagonal hollow rectangle pattern using % | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program217.java) |
+| 96 | program218 | display lower triangle pattern using % and # | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program218.java) |
+| 97 | program219 | display lower triangle pattern using @ % and # | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program219.java) |
+| 98 | program220 | display lower triangle pattern using @ and % | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program220.java) |
+| 99 | program221 | display * triangle pattern | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program221.java) |
+| 100 | program222 | display * triangle pattern optimize code | JAVA_Programming | code with Business Logic in different class[filter for diagonal pattern] | [View Code](./PRACTICE_CODES/program222.java) |
+| 101 | program223 | display * triangle pattern optimize code | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program223.java) |
+| 102 | program224 | display number triangle pattern | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program224.java) |
+| 103 | program225 | display character triangle pattern | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program225.java) |
+| 104 | program226 | display character triangle pattern | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program226.java) |
+| 105 | program227 | display continuous character triangle pattern | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program227.java) |
+| 106 | program228 | display hollow triangle pattern using * and $ | JAVA_Programming | code with Business Logic in different class[boundary condition pattern] | [View Code](./PRACTICE_CODES/program228.java) |
+| 107 | program229 | display hollow triangle pattern using * | JAVA_Programming | code with Business Logic in different class[boundary condition pattern] | [View Code](./PRACTICE_CODES/program229.java) |
+| 108 | program260 | accept and display string | JAVA_Programming | string handling using Scanner class | [View Code](./PRACTICE_CODES/program260.java) |
+| 109 | program261 | access string using index | JAVA_Programming | invalid string indexing demonstration | [View Code](./PRACTICE_CODES/program261.java) |
+| 110 | program262 | access string characters using charAt() | JAVA_Programming | string handling using charAt() method | [View Code](./PRACTICE_CODES/program262.java) |
+| 111 | program263 | find length of string | JAVA_Programming | string handling using length() method | [View Code](./PRACTICE_CODES/program263.java) |
+| 112 | program264 | display characters of string | JAVA_Programming | string traversal using charAt() method and for loop | [View Code](./PRACTICE_CODES/program264.java) |
+| 113 | program265 | display characters of string optimize code | JAVA_Programming | string traversal using toCharArray() method | [View Code](./PRACTICE_CODES/program265.java) |
+| 114 | program266 | accept and display string optimize code | JAVA_Programming | string handling using String class | [View Code](./PRACTICE_CODES/program266.java) |
+| 115 | program267 | display length of empty and input string | JAVA_Programming | string object creation using new keyword | [View Code](./PRACTICE_CODES/program267.java) |
+| 116 | program268 | pass string to function | JAVA_Programming | code with Business Logic in different class | [View Code](./PRACTICE_CODES/program268.java) |
+| 117 | program269 | pass string to function optimize code | JAVA_Programming | code with Business Logic in different class | [View Code](./PRACTICE_CODES/program269.java) |
+| 118 | program270 | count capital characters from string | JAVA_Programming | code with Business Logic in different class | [View Code](./PRACTICE_CODES/program270.java) |
+| 119 | program271 | count capital and small characters from string | JAVA_Programming | code with Business Logic in different class | [View Code](./PRACTICE_CODES/program271.java) |
+| 120 | program272 | count capital and small characters from string | JAVA_Programming | code with Business Logic in different class[toCharArray() method] | [View Code](./PRACTICE_CODES/program272.java) |
+| 121 | program273 | count capital characters, small characters and digits from string | JAVA_Programming | code with Business Logic in different class[toCharArray() method] | [View Code](./PRACTICE_CODES/program273.java) |
+| 122 | program274 | count capital characters, small characters, digits and white spaces from string | JAVA_Programming | code with Business Logic in different class[toCharArray() method] | [View Code](./PRACTICE_CODES/program274.java) |
+| 123 | program275 | count capital characters, small characters, digits, white spaces and special symbols from string | JAVA_Programming | code with Business Logic in different class[toCharArray() method] | [View Code](./PRACTICE_CODES/program275.java) |
+| 124 | program276 | demonstrate dependency error due to missing class definition | JAVA_Programming | error demonstration for external class dependency | [View Code](./PRACTICE_CODES/program276.java) |
+| 125 | program277 | use StringX class from custom package | JAVA_Programming | code with Business Logic in different package[import statement] | [View Code](./PRACTICE_CODES/program277.java) |
+| 126 | program278 | replace character from string | JAVA_Programming | code with Business Logic in different class[string modification using toCharArray()] | [View Code](./PRACTICE_CODES/program278.java) |
+| 127 | program279 | replace character from string optimize code | JAVA_Programming | code with Business Logic in different class[optimized string modification] | [View Code](./PRACTICE_CODES/program279.java) |
+| 128 | program280 | create reusable StringX utility package | JAVA_Programming | code with Business Logic in different package[package creation] | [View Code](./PRACTICE_CODES/program280.java) |
+| 129    | program281 | convert string to uppercase using ASCII logic    | Java     | String toCharArray(), ASCII conversion attempt, Type Casting Error | [View Code](./PRACTICE_CODES/program281.java) |
+| 130    | program282 | demonstrate character and ASCII integer addition | Java     | Char + Integer returns int, ASCII basics                           | [View Code](./PRACTICE_CODES/program282.java) |
+| 131    | program283 | convert uppercase character to lowercase         | Java     | Type Casting, ASCII conversion                                     | [View Code](./PRACTICE_CODES/program283.java) |
+| 132    | program284 | convert lowercase character to uppercase         | Java     | Type Casting, Reverse ASCII conversion                             | [View Code](./PRACTICE_CODES/program284.java) |
+| 133    | program285 | convert string to uppercase using ASCII          | Java     | String traversal, Type Casting, Conversion Issue                   | [View Code](./PRACTICE_CODES/program285.java) |
+| 134    | program286 | convert string to uppercase optimize code        | Java     | Conditional checks, Safe ASCII conversion, String manipulation     | [View Code](./PRACTICE_CODES/program286.java) |
+| 135    | program287 | convert string to uppercase and lowercase        | Java     | Reusable methods, toUpperX(), toLowerX(), String operations        | [View Code](./PRACTICE_CODES/program287.java) |
+| 136    | program288 | toggle string characters case                    | Java     | Case conversion logic, if-else, Issue with special characters      | [View Code](./PRACTICE_CODES/program288.java) |
+| 137    | program289 | toggle string characters case optimize code      | Java     | Case toggling, Optimized conditions, Proper validation             | [View Code](./PRACTICE_CODES/program289.java) |
+
 
 
 
