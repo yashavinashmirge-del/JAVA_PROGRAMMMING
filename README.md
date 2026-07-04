@@ -30,6 +30,22 @@ _ _ _
 | 21 | program67 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program67.java) |
 | 22 | program68 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program68.java) |
 | 23 | program69 | check whether a given number is a prime number or not  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program69.java) |
+| 24 | program79 |  display seperate number of digits  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program79.java) |
+| 25 | program80 |  display seperate number of digits  optimize code  |	JAVA_Programming |	 code with  Business Logic in different class  | [View Code](./PRACTICE_CODES/program80.java) |
+| 26 | program81 |  display seperate number of digits  optimize code  |	JAVA_Programming |	 code with  Business Logic in different class[for(;;)]  | [View Code](./PRACTICE_CODES/program81.java) |
+| 27 | program82 |  display seperate number of digits  optimize code  |	JAVA_Programming |	 code with  Business Logic in different class[for(;;) instant of while]  | [View Code](./PRACTICE_CODES/program82.java) |
+| 28 | program83 |  count seperate number of digits  optimize code  |	JAVA_Programming |	 code with  Business Logic in different class[whileloop]  | [View Code](./PRACTICE_CODES/program83.java) |
+| 29 | program84 |  count seperate number of digits  optimize code  |	JAVA_Programming |	 code with  Business Logic in different class[whileloop]  | [View Code](./PRACTICE_CODES/program84.java) |
+| 30 | program85 | count separate number of digit 7 | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program85.java) | 
+| 31 | program86 | count separate number of even digits | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program86.java) | 
+| 32 | program87 | count separate number of odd digits | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program87.java) | 
+| 33 | program88 | count separate number of even and odd digits | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program88.java)| 
+| 34 | program89 | sum of digits | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program89.java)|
+| 35 | program90 | sum of digits optimize code | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program90.java) |
+
+
+
+
 
 
 
