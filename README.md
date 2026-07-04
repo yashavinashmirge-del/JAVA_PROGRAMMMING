@@ -135,17 +135,18 @@ _ _ _
 | 126 | program278 | replace character from string | JAVA_Programming | code with Business Logic in different class[string modification using toCharArray()] | [View Code](./PRACTICE_CODES/program278.java) |
 | 127 | program279 | replace character from string optimize code | JAVA_Programming | code with Business Logic in different class[optimized string modification] | [View Code](./PRACTICE_CODES/program279.java) |
 | 128 | program280 | create reusable StringX utility package | JAVA_Programming | code with Business Logic in different package[package creation] | [View Code](./PRACTICE_CODES/program280.java) |
-| 129    | program281 | convert string to uppercase using ASCII logic    | Java     | String toCharArray(), ASCII conversion attempt, Type Casting Error | [View Code](./PRACTICE_CODES/program281.java) |
-| 130    | program282 | demonstrate character and ASCII integer addition | Java     | Char + Integer returns int, ASCII basics                           | [View Code](./PRACTICE_CODES/program282.java) |
-| 131    | program283 | convert uppercase character to lowercase         | Java     | Type Casting, ASCII conversion                                     | [View Code](./PRACTICE_CODES/program283.java) |
-| 132    | program284 | convert lowercase character to uppercase         | Java     | Type Casting, Reverse ASCII conversion                             | [View Code](./PRACTICE_CODES/program284.java) |
-| 133    | program285 | convert string to uppercase using ASCII          | Java     | String traversal, Type Casting, Conversion Issue                   | [View Code](./PRACTICE_CODES/program285.java) |
-| 134    | program286 | convert string to uppercase optimize code        | Java     | Conditional checks, Safe ASCII conversion, String manipulation     | [View Code](./PRACTICE_CODES/program286.java) |
-| 135    | program287 | convert string to uppercase and lowercase        | Java     | Reusable methods, toUpperX(), toLowerX(), String operations        | [View Code](./PRACTICE_CODES/program287.java) |
-| 136    | program288 | toggle string characters case                    | Java     | Case conversion logic, if-else, Issue with special characters      | [View Code](./PRACTICE_CODES/program288.java) |
-| 137    | program289 | toggle string characters case optimize code      | Java     | Case toggling, Optimized conditions, Proper validation             | [View Code](./PRACTICE_CODES/program289.java) |
+| 129    | program281 | convert string to uppercase using ASCII logic    | JAVA_Programming | String toCharArray(), ASCII conversion attempt, Type Casting Error | [View Code](./PRACTICE_CODES/program281.java) |
+| 130    | program282 | demonstrate character and ASCII integer addition | JAVA_Programming | Char + Integer returns int, ASCII basics                           | [View Code](./PRACTICE_CODES/program282.java) |
+| 131    | program283 | convert uppercase character to lowercase         | JAVA_Programming | Type Casting, ASCII conversion                                     | [View Code](./PRACTICE_CODES/program283.java) |
+| 132    | program284 | convert lowercase character to uppercase         | JAVA_Programming | Type Casting, Reverse ASCII conversion                             | [View Code](./PRACTICE_CODES/program284.java) |
+| 133    | program285 | convert string to uppercase using ASCII          | JAVA_Programming | String traversal, Type Casting, Conversion Issue                   | [View Code](./PRACTICE_CODES/program285.java) |
+| 134    | program286 | convert string to uppercase optimize code        | JAVA_Programming | Conditional checks, Safe ASCII conversion, String manipulation     | [View Code](./PRACTICE_CODES/program286.java) |
+| 135    | program287 | convert string to uppercase and lowercase        | JAVA_Programming | Reusable methods, toUpperX(), toLowerX(), String operations        | [View Code](./PRACTICE_CODES/program287.java) |
+| 136    | program288 | toggle string characters case                    | JAVA_Programming | Case conversion logic, if-else, Issue with special characters      | [View Code](./PRACTICE_CODES/program288.java) |
+| 137    | program289 | toggle string characters case optimize code      | JAVA_Programming | Case toggling, Optimized conditions, Proper validation             | [View Code](./PRACTICE_CODES/program289.java) |
 
 
+ _ _ _
 
 
 
