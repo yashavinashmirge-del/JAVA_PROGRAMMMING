@@ -159,5 +159,13 @@ _ _ _
 
 
 
+## 📂 Repository Structure
 
+```bash
+JAVA_PROGRAMMING/
+│
+├── CONCEPTS_CODES/
+├── CP_CODES/
+├── PRACTICE_CODES/
+└── README.md
 _ _ _
