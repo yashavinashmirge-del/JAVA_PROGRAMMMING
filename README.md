@@ -42,7 +42,16 @@ _ _ _
 | 33 | program88 | count separate number of even and odd digits | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program88.java)| 
 | 34 | program89 | sum of digits | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program89.java)|
 | 35 | program90 | sum of digits optimize code | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program90.java) |
-
+| 36 | program91 | summation of even digits | JAVA_Programming | code with Business Logic in different class[whileloop] |  [View Code](./PRACTICE_CODES/program91.java) |
+| 37 | program92 | reverse number | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program92.java)  |
+| 38 | program93 | check number is pallindrome or not | JAVA_Programming | code with Business Logic in different class[whileloop] |  [View Code](./PRACTICE_CODES/program93.java) |
+| 39 | program137 | display array elements | JAVA_Programming | static array declaration and display elements | [View Code](./PRACTICE_CODES/program137.java) |
+| 40 | program138 | display array elements optimize code | JAVA_Programming | display array elements using for loop | [View Code](./PRACTICE_CODES/program138.java) |
+| 41 | program139 | display array elements optimize code | JAVA_Programming | display array elements using for loop with declaration in loop | [View Code](./PRACTICE_CODES/program139.java) |
+| 42 | program140 | scope of variable in for loop | JAVA_Programming | variable declaration scope demonstration | [View Code](./PRACTICE_CODES/program140.java) |
+| 43 | program141 | accept and display array elements | JAVA_Programming | dynamic memory allocation for array | [View Code](./PRACTICE_CODES/program141.java) |
+| 44 | program142 | accept and display array elements optimize code | JAVA_Programming | dynamic memory allocation for array with garbage collection |[View Code](./PRACTICE_CODES/program142.java)|
+| 45 | program143 | summation of array elements | JAVA_Programming | code with Business Logic in different method |[View Code](./PRACTICE_CODES/program143.java)|
 
 
 
