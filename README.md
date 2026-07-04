@@ -5,6 +5,7 @@ A collection of java programming programs covering concepts, practice problems, 
 ## PRACTICE_PROGRAMS
 _ _ _
 
+###  NUMBERS/DIGITS/LOOPS
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 01 | program03 |	print "Jay Ganesh" on screen by using JAVA_Programming |	JAVA_Programming|	Basic Trial of environment setup...| [View Code](./PRACTICE_CODES/program03.java) |
@@ -45,6 +46,10 @@ _ _ _
 | 36 | program91 | summation of even digits | JAVA_Programming | code with Business Logic in different class[whileloop] |  [View Code](./PRACTICE_CODES/program91.java) |
 | 37 | program92 | reverse number | JAVA_Programming | code with Business Logic in different class[whileloop] | [View Code](./PRACTICE_CODES/program92.java)  |
 | 38 | program93 | check number is pallindrome or not | JAVA_Programming | code with Business Logic in different class[whileloop] |  [View Code](./PRACTICE_CODES/program93.java) |
+
+### ARRAYS
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
 | 39 | program137 | display array elements | JAVA_Programming | static array declaration and display elements | [View Code](./PRACTICE_CODES/program137.java) |
 | 40 | program138 | display array elements optimize code | JAVA_Programming | display array elements using for loop | [View Code](./PRACTICE_CODES/program138.java) |
 | 41 | program139 | display array elements optimize code | JAVA_Programming | display array elements using for loop with declaration in loop | [View Code](./PRACTICE_CODES/program139.java) |
@@ -52,9 +57,13 @@ _ _ _
 | 43 | program141 | accept and display array elements | JAVA_Programming | dynamic memory allocation for array | [View Code](./PRACTICE_CODES/program141.java) |
 | 44 | program142 | accept and display array elements optimize code | JAVA_Programming | dynamic memory allocation for array with garbage collection |[View Code](./PRACTICE_CODES/program142.java)|
 | 45 | program143 | summation of array elements | JAVA_Programming | code with Business Logic in different method |[View Code](./PRACTICE_CODES/program143.java)|
-|46 | program145 | update array elements | JAVA_Programming | code with Business Logic in same class | [View Code](./PRACTICE_CODES/program145.java) |
-|47 | program146 | update array elements optimize code | JAVA_Programming | code with Business Logic in different class[static method] | [View Code](./PRACTICE_CODES/program146.java) |
-|48 | program147 | update array elements optimize code | JAVA_Programming | code with Business Logic in different class[non static method] | [View Code](./PRACTICE_CODES/program147.java) |
+| 46 | program145 | update array elements | JAVA_Programming | code with Business Logic in same class | [View Code](./PRACTICE_CODES/program145.java) |
+| 47 | program146 | update array elements optimize code | JAVA_Programming | code with Business Logic in different class[static method] | [View Code](./PRACTICE_CODES/program146.java) |
+| 48 | program147 | update array elements optimize code | JAVA_Programming | code with Business Logic in different class[non static method] | [View Code](./PRACTICE_CODES/program147.java) |
+
+### PATTERN_PRINTING
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
 |49 | program171 | display * pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program171.java) |
 |50 | program172 | display numbers pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program172.java) |
 |51 | program173 | display number and * pattern | JAVA_Programming | pattern printing using for loop | [View Code](./PRACTICE_CODES/program173.java) |
@@ -114,6 +123,10 @@ _ _ _
 | 105 | program227 | display continuous character triangle pattern | JAVA_Programming | code with Business Logic in different class[nested for loop] | [View Code](./PRACTICE_CODES/program227.java) |
 | 106 | program228 | display hollow triangle pattern using * and $ | JAVA_Programming | code with Business Logic in different class[boundary condition pattern] | [View Code](./PRACTICE_CODES/program228.java) |
 | 107 | program229 | display hollow triangle pattern using * | JAVA_Programming | code with Business Logic in different class[boundary condition pattern] | [View Code](./PRACTICE_CODES/program229.java) |
+
+### STRING
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
 | 108 | program260 | accept and display string | JAVA_Programming | string handling using Scanner class | [View Code](./PRACTICE_CODES/program260.java) |
 | 109 | program261 | access string using index | JAVA_Programming | invalid string indexing demonstration | [View Code](./PRACTICE_CODES/program261.java) |
 | 110 | program262 | access string characters using charAt() | JAVA_Programming | string handling using charAt() method | [View Code](./PRACTICE_CODES/program262.java) |
