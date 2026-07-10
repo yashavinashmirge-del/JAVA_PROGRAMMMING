@@ -1,6 +1,22 @@
 # JAVA_PROGRAMMMING
 
-A collection of java programming programs covering concepts, practice problems, and coding exercises.
+A collection of java programming programs covering concepts, practice problems, and coding exercises....
+
+## CP_CODES
+Here is the organized table mapping out all 10 Java programs based on your requested format.
+
+| SR. No | Program No | Description | Language | Learnings | Link |
+| --- | --- | --- | --- | --- | --- |
+| 01 | program01 | Program to calculate the sum of digits of a number | Java | Modulo operator (`%`) for extraction, integer division (`/`) for truncation, loop-based extraction | [View Code](./JAVA_CODES/program1.java) |
+| 02 | program02 | Program to check if a number is a palindrome | Java | Digit extraction, building a reversed integer mathematically (`rev * 10 + digit`), preservation of original value using a temporary variable | [View Code](./JAVA_CODES/program2.java) |
+| 03 | program03 | Program to find the maximum of two numbers | Java | Basic conditional structures (`if-else`), relational operators | [View Code](./JAVA_CODES/program3.java) |
+| 04 | program04 | Program to find the minimum of three numbers | Java | Initialization technique, sequential updating of a tracking variable using standalone `if` conditions | [View Code](./JAVA_CODES/program4.java) |
+| 05 | program05 | Program to print the multiplication table of a given number | Java | Fixed iteration using `for` loops, string concatenation with arithmetic results inside print statements | [View Code](./JAVA_CODES/program5.java) |
+| 06 | program06 | Program to check if a number is prime | Java | Loop optimization up to `num / 2`, flag-based state tracking, early loop termination using the `break` keyword | [View Code](https://www.google.com/search?q=./JAVA_CODES/program6.java) |
+| 07 | program07 | Program to print all even numbers up to N | Java | Loop control variable step modification (`i += 2`), space-separated inline printing (`System.out.print`) | [View Code](./JAVA_CODES/program7.java) |
+| 08 | program08 | Program to print all odd numbers up to N | Java | Loop initialization variations, inline printing flow, customized step increments | [View Code](./JAVA_CODES/program8.java) |
+| 09 | program09 | Program to calculate separate sums for even and odd digits of a number | Java | Combining digit extraction loops with conditional (`if-else`) logic inside, multi-variable tracking | [View Code](./JAVA_CODES/program9.java) |
+| 10 | program10 | Program to check whether a number is positive, negative, or zero | Java | Multi-way branching using `if - else if - else` control flows | [View Code](./JAVA_CODES/program10.java) |
 
 ## PRACTICE_PROGRAMS
 _ _ _
