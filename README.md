@@ -7,11 +7,11 @@ A collection of java programming programs covering concepts, practice problems, 
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 | --- | --- | --- | --- | --- | --- |
-| 01 | program01 | Program to calculate the sum of digits of a number | Java | Modulo operator (`%`) for extraction, integer division (`/`) for truncation, loop-based extraction | [View Code](./CP_CODES/program1.java)  |
-| 02 | program02 | Program to check if a number is a palindrome | Java | Digit extraction, building a reversed integer mathematically (`rev * 10 + digit`), preservation of original value using a temporary variable || [View Code](./CP_CODES/program2.java)|
-| 03 | program03 | Program to find the maximum of two numbers | Java | Basic conditional structures (`if-else`), relational operators | [View Code](./JAVA_CODES/program3.java) |
-| 04 | program04 | Program to find the minimum of three numbers | Java | Initialization technique, sequential updating of a tracking variable using standalone `if` conditions | [View Code](./JAVA_CODES/program4.java) |
-| 05 | program05 | Program to print the multiplication table of a given number | Java | Fixed iteration using `for` loops, string concatenation with arithmetic results inside print statements | [View Code](./JAVA_CODES/program5.java) |
+| 01 | program01 | Program to calculate the sum of digits of a number | Java | Modulo operator (`%`) for extraction, integer division (`/`) for truncation, loop-based extraction  | [View Code](./CP_CODES/program1.java)|
+| 02 | program02 | Program to check if a number is a palindrome | Java | Digit extraction, building a reversed integer mathematically (`rev * 10 + digit`), preservation of original value using a temporary variable  | [View Code](./CP_CODES/program2.java) |
+| 03 | program03 | Program to find the maximum of two numbers | Java | Basic conditional structures (`if-else`), relational operators  | [View Code](./CP_CODES/program3.java)|
+| 04 | program04 | Program to find the minimum of three numbers | Java | Initialization technique, sequential updating of a tracking variable using standalone `if` conditions | [View Code](./CP_CODES/program4.java)|
+| 05 | program05 | Program to print the multiplication table of a given number | Java | Fixed iteration using `for` loops, string concatenation with arithmetic results inside print statements | [View Code](./CP_CODES/program5.java)|
 | 06 | program06 | Program to check if a number is prime | Java | Loop optimization up to `num / 2`, flag-based state tracking, early loop termination using the `break` keyword | [View Code](./CP_CODES/program6.java)|
 | 07 | program07 | Program to print all even numbers up to N | Java | Loop control variable step modification (`i += 2`), space-separated inline printing (`System.out.print`) | [View Code](./CP_CODES/program7.java)|
 | 08 | program08 | Program to print all odd numbers up to N | Java | Loop initialization variations, inline printing flow, customized step increments | [View Code](./CP_CODES/program8.java)|
